@@ -1,0 +1,31 @@
+
+media:
+  input: images
+  output: /images
+
+content:
+  - name: menu
+    label: 八方菜单管理
+    type: file
+    path: menu-default.json
+    format: json
+    fields:
+      - name: categories
+        label: 菜单分类
+        type: object
+        list: true
+        fields:
+          - name: name
+            label: 分类名称
+            type: string
+          - name: items
+            label: 菜品
+            type: object
+            list: true
+            fields:
+              - name: name
+                label: 菜名
+                type: string
+              - name: price
+                label: 价格
+                type: string
