@@ -122,30 +122,30 @@
       "items": [
         {
           "zh": "羊肉串嫩",
-          "en": "Lamb Skewers",
-          "price": "$2.00 / pc · $9.90 / bunch",
+          "en": "Tender Lamb Skewers",
+          "price": "$9.90 / bunch",
           "image": ""
         },
         {
           "zh": "和牛肉串",
           "en": "Wagyu Beef Skewers",
-          "price": "$2.50 / pc · $9.90 / bunch",
+          "price": "$10.90 / bunch",
           "image": ""
         },
         {
           "zh": "嫩牛排",
-          "en": "Beef Skewers",
-          "price": "$2.50 / pc · $9.90 / bunch",
+          "en": "Tender Beef Skewers",
+          "price": "$3.00 / pc",
           "image": ""
         },
         {
           "zh": "脆鸡柳棒",
-          "en": "Crispy Chicken Tender Skewers",
-          "price": "$2.00 / pc",
+          "en": "Crispy Chicken Tenders",
+          "price": "$9.90 / bunch",
           "image": ""
         },
         {
-          "zh": "大鸡排",
+          "zh": "小鸡排",
           "en": "Crispy Chicken Cutlet",
           "price": "$3.00 / pc",
           "image": ""
@@ -153,7 +153,7 @@
         {
           "zh": "掌中宝",
           "en": "Crispy Chicken Cartilage",
-          "price": "$2.00 / pc · $8.00 / bunch",
+          "price": "$8.00 / bunch",
           "image": ""
         },
         {
@@ -169,9 +169,9 @@
           "image": ""
         },
         {
-          "zh": "火腿肠儿",
-          "en": "Ham Sausage",
-          "price": "$2.50 / pc",
+          "zh": "鸡心",
+          "en": "Chicken Hearts",
+          "price": "$8.99 / bunch",
           "image": ""
         },
         {
@@ -187,8 +187,8 @@
           "image": ""
         },
         {
-          "zh": "鱼丸/墨鱼丸/龙虾丸",
-          "en": "Assorted Fish, Cuttlefish & Lobster-Flavoured Balls",
+          "zh": "什锦丸子",
+          "en": "Mixed Balls",
           "price": "$1.50 / pc",
           "image": ""
         },
@@ -201,24 +201,24 @@
         {
           "zh": "玉米粒儿",
           "en": "Sweetcorn",
-          "price": "$0.50 / pc · $2.90 / bunch",
+          "price": "$2.90 / bunch",
           "image": ""
         },
         {
           "zh": "大面筋",
-          "en": "Grilled Wheat Gluten",
+          "en": "Wheat Gluten Skewer",
           "price": "$2.90 / pc",
           "image": ""
         },
         {
-          "zh": "署塔",
+          "zh": "薯塔",
           "en": "Spiral Potato",
           "price": "$4.50 / pc",
           "image": ""
         },
         {
           "zh": "炸馒头",
-          "en": "Fried Steamed Buns",
+          "en": "Fried Steamed Bun",
           "price": "$2.00 / pc",
           "image": ""
         },
@@ -235,21 +235,27 @@
           "image": ""
         },
         {
-          "zh": "干豆腐金针菇",
-          "en": "Tofu Skin & Enoki Mushroom Rolls",
-          "price": "$1.50 / pc",
+          "zh": "小羊腩",
+          "en": "Lamb Belly",
+          "price": "$10.90 / bunch",
           "image": ""
         },
         {
-          "zh": "干豆腐香菜",
-          "en": "Tofu Skin & Coriander Rolls",
+          "zh": "豆皮香菜/金针菇",
+          "en": "Tofu Coriander/Enoki Rolls",
           "price": "$1.50 / pc",
           "image": ""
         },
         {
           "zh": "苕皮",
-          "en": "Sweet Potato Starch Skewers",
+          "en": "Sweet Potato Starch",
           "price": "$2.90 / pc",
+          "image": ""
+        },
+        {
+          "zh": "牛花踺",
+          "en": "Beef Shank",
+          "price": "$10.90 / bunch",
           "image": ""
         }
       ]
