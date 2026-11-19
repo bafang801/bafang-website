@@ -1,0 +1,380 @@
+{
+  "categories": [
+    {
+      "zh": "饺子",
+      "en": "Dumplings",
+      "descZh": "每份12只",
+      "descEn": "12 pieces per serving",
+      "items": [
+        {
+          "zh": "猪肉韭菜虾仁-绿",
+          "en": "Pork, Chive & Prawn (Green Wrapper)",
+          "price": "$15.90 / 12 pcs",
+          "image": ""
+        },
+        {
+          "zh": "猪肉白菜",
+          "en": "Pork & Chinese Cabbage",
+          "price": "$15.90 / 12 pcs",
+          "image": ""
+        },
+        {
+          "zh": "猪肉酸菜",
+          "en": "Pork & Pickled Cabbage",
+          "price": "$15.90 / 12 pcs",
+          "image": ""
+        },
+        {
+          "zh": "鸡肉蘑菇玉米-黄",
+          "en": "Chicken, Mushroom & Corn (Yellow Wrapper)",
+          "price": "$15.90 / 12 pcs",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "zh": "锅贴",
+      "en": "Potstickers",
+      "descZh": "香脆招牌锅贴",
+      "descEn": "Golden Pan-Fried Dumplings",
+      "items": [
+        {
+          "zh": "猪肉韭菜虾仁-绿",
+          "en": "Pork, Chive & Prawn (Green Wrapper)",
+          "price": "$10.90 / 6 pcs · $16.90 / 10 pcs",
+          "image": ""
+        },
+        {
+          "zh": "猪肉白菜",
+          "en": "Pork & Chinese Cabbage",
+          "price": "$10.90 / 6 pcs · $16.90 / 10 pcs",
+          "image": ""
+        },
+        {
+          "zh": "鸡肉蘑菇玉米-黄",
+          "en": "Chicken, Mushroom & Corn (Yellow Wrapper)",
+          "price": "$10.90 / 6 pcs · $16.90 / 10 pcs",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "zh": "包子",
+      "en": "Steamed Buns",
+      "descZh": "包子及面点",
+      "descEn": "Steamed Buns & Snacks",
+      "items": [
+        {
+          "zh": "馒头",
+          "en": "馒头",
+          "price": "$3.00",
+          "image": ""
+        },
+        {
+          "zh": "花卷",
+          "en": "花卷",
+          "price": "$3.00",
+          "image": ""
+        },
+        {
+          "zh": "猪肉白菜包子",
+          "en": "Pork & Chinese Cabbage Bun",
+          "price": "$3.50",
+          "image": ""
+        },
+        {
+          "zh": "猪肉酸菜包子",
+          "en": "Pork & Pickled Cabbage Bun",
+          "price": "$3.50",
+          "image": ""
+        },
+        {
+          "zh": "生煎包",
+          "en": "Pan-Fried Pork Buns",
+          "price": "$10.90",
+          "image": ""
+        },
+        {
+          "zh": "葱油饼",
+          "en": "Scallion Pancake",
+          "price": "$10.90",
+          "image": ""
+        },
+        {
+          "zh": "素菜包子",
+          "en": "Vege Bun",
+          "price": "$3.50",
+          "image": ""
+        },
+        {
+          "zh": "纯肉包子",
+          "en": "pork bun",
+          "price": "$3.50",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "zh": "炸串",
+      "en": "Fried Skewers",
+      "descZh": "自选炸串与炸物",
+      "descEn": "Skewers & Fried Snacks",
+      "items": [
+        {
+          "zh": "羊肉串嫩",
+          "en": "Lamb Skewers",
+          "price": "$2.00 / pc · $9.90 / bunch",
+          "image": ""
+        },
+        {
+          "zh": "和牛肉串",
+          "en": "Wagyu Beef Skewers",
+          "price": "$2.50 / pc · $9.90 / bunch",
+          "image": ""
+        },
+        {
+          "zh": "嫩牛排",
+          "en": "Beef Skewers",
+          "price": "$2.50 / pc · $9.90 / bunch",
+          "image": ""
+        },
+        {
+          "zh": "脆鸡柳棒",
+          "en": "Crispy Chicken Tender Skewers",
+          "price": "$2.00 / pc",
+          "image": ""
+        },
+        {
+          "zh": "大鸡排",
+          "en": "Crispy Chicken Cutlet",
+          "price": "$3.00 / pc",
+          "image": ""
+        },
+        {
+          "zh": "掌中宝",
+          "en": "Crispy Chicken Cartilage",
+          "price": "$2.00 / pc · $8.00 / bunch",
+          "image": ""
+        },
+        {
+          "zh": "淀粉肠儿",
+          "en": "Chinese Starch Sausage",
+          "price": "$3.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "台湾肠儿",
+          "en": "Taiwanese Sausage",
+          "price": "$4.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "火腿肠儿",
+          "en": "Ham Sausage",
+          "price": "$2.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "鱿鱼须",
+          "en": "Squid Tentacles",
+          "price": "$3.90 / pc",
+          "image": ""
+        },
+        {
+          "zh": "大鱿鱼",
+          "en": "Whole Squid",
+          "price": "$6.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "鱼丸/墨鱼丸/龙虾丸",
+          "en": "Assorted Fish, Cuttlefish & Lobster-Flavoured Balls",
+          "price": "$1.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "鱼豆腐",
+          "en": "Fish Tofu",
+          "price": "$1.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "玉米粒儿",
+          "en": "Sweetcorn",
+          "price": "$0.50 / pc · $2.90 / bunch",
+          "image": ""
+        },
+        {
+          "zh": "大面筋",
+          "en": "Grilled Wheat Gluten",
+          "price": "$2.90 / pc",
+          "image": ""
+        },
+        {
+          "zh": "署塔",
+          "en": "Spiral Potato",
+          "price": "$4.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "炸馒头",
+          "en": "Fried Steamed Buns",
+          "price": "$2.00 / pc",
+          "image": ""
+        },
+        {
+          "zh": "炸蘑菇",
+          "en": "Fried Mushrooms",
+          "price": "$2.00 / pc",
+          "image": ""
+        },
+        {
+          "zh": "洋白菜",
+          "en": "Cabbage",
+          "price": "$1.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "干豆腐金针菇",
+          "en": "Tofu Skin & Enoki Mushroom Rolls",
+          "price": "$1.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "干豆腐香菜",
+          "en": "Tofu Skin & Coriander Rolls",
+          "price": "$1.50 / pc",
+          "image": ""
+        },
+        {
+          "zh": "苕皮",
+          "en": "Sweet Potato Starch Skewers",
+          "price": "$2.90 / pc",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "zh": "菜品",
+      "en": "Dishes",
+      "descZh": "热菜、凉菜及面条",
+      "descEn": "Hot Dishes, Cold Dishes & Noodles",
+      "items": [
+        {
+          "zh": "炝拌干豆腐",
+          "en": "Tofu Skin Salad",
+          "price": "$5.90",
+          "image": ""
+        },
+        {
+          "zh": "红油海带丝",
+          "en": "Chilli Oil Kelp Salad",
+          "price": "$5.90",
+          "image": ""
+        },
+        {
+          "zh": "红油土豆丝",
+          "en": "Chilli Oil Shredded Potato",
+          "price": "$5.90",
+          "image": ""
+        },
+        {
+          "zh": "毛豆",
+          "en": "Edamame",
+          "price": "$5.90",
+          "image": ""
+        },
+        {
+          "zh": "牛肉炒面",
+          "en": "Beef Stir-Fried Noodles",
+          "price": "$18.90",
+          "image": ""
+        },
+        {
+          "zh": "肉丝炒面",
+          "en": "Shredded Pork Stir-Fried Noodles",
+          "price": "$17.90",
+          "image": ""
+        },
+        {
+          "zh": "鸡肉炒面",
+          "en": "Chicken Stir-Fried Noodles",
+          "price": "$17.90",
+          "image": ""
+        },
+        {
+          "zh": "红烧牛肉汤面",
+          "en": "Braised Beef Noodle Soup",
+          "price": "$18.90",
+          "image": ""
+        },
+        {
+          "zh": "番茄牛肉汤面",
+          "en": "Tomato Beef Noodle Soup",
+          "price": "$18.90",
+          "image": ""
+        },
+        {
+          "zh": "炸酱面",
+          "en": "Noodles with Soybean Pork Sauce",
+          "price": "$17.90",
+          "image": ""
+        },
+        {
+          "zh": "𰻞𰻞油泼哨子面",
+          "en": "Biang Biang Noodles with Chilli Oil & Minced Meat",
+          "price": "$18.90",
+          "image": ""
+        },
+        {
+          "zh": "可乐",
+          "en": "Coca-Cola",
+          "price": "$3.00",
+          "image": ""
+        },
+        {
+          "zh": "芬达",
+          "en": "Fanta",
+          "price": "$3.00",
+          "image": ""
+        },
+        {
+          "zh": "雪碧",
+          "en": "Sprite",
+          "price": "$3.00",
+          "image": ""
+        },
+        {
+          "zh": "王老吉",
+          "en": "Wang Lao Ji Herbal Tea",
+          "price": "$4.00",
+          "image": ""
+        },
+        {
+          "zh": "酸梅汤",
+          "en": "Sour Plum Drink",
+          "price": "$4.00",
+          "image": ""
+        },
+        {
+          "zh": "红茶",
+          "en": "Black Tea",
+          "price": "$3.00",
+          "image": ""
+        },
+        {
+          "zh": "豆浆",
+          "en": "Soy Milk",
+          "price": "$3.00",
+          "image": ""
+        },
+        {
+          "zh": "水",
+          "en": "bottle water",
+          "price": "$3.00",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
